@@ -39,7 +39,7 @@ npm test
 
 [nix-build-image]: https://semaphoreci.com/api/v1/medikoo-org/events-promise/branches/master/shields_badge.svg
 [nix-build-url]: https://semaphoreci.com/medikoo-org/events-promise
-[win-build-image]: https://ci.appveyor.com/api/projects/status/?svg=true
+[win-build-image]: https://ci.appveyor.com/api/projects/status/007fsmnrqubql3p5?svg=true
 [win-build-url]: https://ci.appveyor.com/api/project/medikoo/events-promise
 [cov-image]: https://img.shields.io/codecov/c/github/medikoo/events-promise.svg
 [cov-url]: https://codecov.io/gh/medikoo/events-promise
