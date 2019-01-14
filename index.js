@@ -5,7 +5,7 @@ const EventEmitter = require("events");
 class PromiseEmitter extends Promise {
 	constructor(executor) {
 		super(executor);
-		EventEmitter.init.call(this);
+		EventEmitter.call(this);
 	}
 }
 
