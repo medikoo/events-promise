@@ -8,7 +8,7 @@
 
 ## Promise that's a also a Node.js EventEmitter
 
-Useful when we want to serve both `EventEmitter` (e.g. `Stream`) instance and `Promise` as one object
+Useful when we want to serve both `EventEmitter` (e.g. `Stream`) instance and `Promise` instance as one object
 
 ### Installation
 
