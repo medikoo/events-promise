@@ -6,9 +6,9 @@
 
 # events-promise
 
-## Promise that's a also a Node.js EventEmitter
+## Promise that's a also a Node.js [EventEmitter](https://nodejs.org/api/events.html#events_class_eventemitter)
 
-Useful when we want to serve both `EventEmitter` (e.g. `Stream`) instance and `Promise` instance as one object
+Useful when we want to serve both [`EventEmitter`](https://nodejs.org/api/events.html#events_class_eventemitter) instance and `Promise` instance as one object
 
 ### Installation
 
